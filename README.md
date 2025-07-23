@@ -1,3 +1,5 @@
+## Setup Instructions
+
 ## Frontend
 
 npm create vite@latest frontend --template react
@@ -31,3 +33,21 @@ Create a new file named tsconfig.json & Add below content to it.
     "skipLibCheck": true
   }
 }`
+
+## Run Instructions
+
+## Backend
+
+cd backend
+
+npm i
+
+npm run dev
+
+## Frontend
+
+cd frontend
+
+npm i
+
+npm run dev
